@@ -1,3 +1,4 @@
 -e .
 gitchangelog
 bumpversion
+pytest
