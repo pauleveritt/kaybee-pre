@@ -21,7 +21,11 @@ editable package.
 Release
 -------
 
-#. Bump the version using ``bumpversion``.
+#. Bump the version using ``bumpversion``:
+
+   - https://legacy-developer.atlassian.com/blog/2016/02/bumpversion-is-automation-for-semantic-versioning/
+
+   - https://github.com/peritus/bumpversion/issues/77#issuecomment-130696156
 
 #. Tag the release.
 
