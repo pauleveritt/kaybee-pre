@@ -1,0 +1,30 @@
+kaybee
+======
+
+Knowledge Base (KB, kaybee) using on Sphinx with schema-driven resource
+directives in YAML.
+
+See ``docs`` for details.
+
+Development
+-----------
+
+#. Make a virtualenv e.g. ``python3 -m venv env36``
+
+#. Update pip stuff with ``pip install --upgrade pip setuptools wheel``
+
+#. ``pip install -r requirements.txt`` to get dev requirements plus the
+editable package.
+
+Release
+-------
+
+#. Bump the version using ``bumpversion``.
+
+#. Tag the release.
+
+#. Run ``gitchangelog`` to generate the history that goes into the package.
+
+#. Generate the package using ``python setup.py sdist bdist_wheel``
+
+#. Upload to PyPI using ``twine``
