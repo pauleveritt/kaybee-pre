@@ -9,7 +9,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name='kaybee',
-    version='0.0.5.dev2',
+    version='0.0.5.dev3',
     description='Knowledgebase system for Sphinx',
     long_description=long_description,
     url='https://github.com/pauleveritt/kaybee',
