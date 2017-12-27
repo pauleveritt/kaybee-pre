@@ -2,3 +2,4 @@
 gitchangelog
 bumpversion
 pytest
+travis-encrypt
