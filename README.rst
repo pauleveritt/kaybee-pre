@@ -1,6 +1,9 @@
 kaybee
 ======
 
+.. image:: https://img.shields.io/travis/pauleveritt/kaybee.svg
+    :target: https://pypi.python.org/pypi/kaybee
+
 .. image:: https://img.shields.io/pypi/v/kaybee.svg
     :target: https://pypi.python.org/pypi/kaybee
 
